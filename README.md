@@ -1267,13 +1267,3 @@ MIT License — free to use, modify, and distribute.
 **Made by [logquickly](https://github.com/logquickly)**
 
 </div>
-```
-
----
-
-两个文件的结构总结：
-
-| 文件 | 内容 |
-|------|------|
-| `example.lua` | 完整演示脚本，展示全部 13 类 API 调用（窗口、Tab、Section、Toggle + 子组件、Slider、Dropdown 单选/多选/动态、TextBox、Keybind、ColorPicker、Button、Label、Paragraph、Notification 4 种类型、编程式控制 Set/Get、窗口控制、Flag 全局访问、FPS 动态更新、内置配置 Tab） |
-| `README.md` | 完整文档，含功能列表、安装方法、快速开始、全部组件 API 参数表 + 方法表、通知系统、主题系统、Flag 系统、配置系统、快捷键列表、兼容性说明 |
